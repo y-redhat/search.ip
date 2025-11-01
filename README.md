@@ -4,6 +4,12 @@
 <h2>this page have 日本語、English,中文(繁体),中文(簡体)</h2>
 <h3>日本語</h3>
 <h3>Pythonで相手のip検索</h3>
+<h3>これはトロイの木馬や、その他のマルウェアに改造できるので扱いは十分注意してください</h3>
+<h3>使い方は</h3>
+<p>1.ダウンロードする。</p>
+<p>2.実行ファイルにする　(タップしたら実行するファイル)</p>
+<p>3.clientと書かれたファイルを相手に送る。</p>
+<p>4.相手がファイルを実行する前にサーバーを起動する</p>
 <h3>利用規約を読んだうえで使用してください</h3>
  <p>urlは<a href = "https://github.com/y-redhat/search.ip">https://github.com/y-redhat/search.ip</a>です</p>
  <h3>English</h3>
