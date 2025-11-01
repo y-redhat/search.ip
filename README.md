@@ -9,7 +9,7 @@
 <p>1.ダウンロードする。</p>
 <p>2.実行ファイルにする　(タップしたら実行するファイル)</p>
 <p>3.clientと書かれたファイルを相手に送る。</p>
-<p>4.相手がファイルを実行する前にサーバーを起動する</p>
+<p>4.相手がファイルを実行する前にserverと書かれたファイルを起動する</p>
 <h3>利用規約を読んだうえで使用してください</h3>
  <p>urlは<a href = "https://github.com/y-redhat/search.ip">https://github.com/y-redhat/search.ip</a>です</p>
  <h3>English</h3>
